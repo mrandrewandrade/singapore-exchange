@@ -1,26 +1,39 @@
 # Singapore Exchange Student Guide
-An insider guide to making the most of your semester abroad
+Make the most of your semester abroad!
 
 Note: This document is just a rough outline for the content
 and this repo is a work in progress
-
 
 Outline:
 
 ##Introduction
 ###Why go on exchange?
+- international perspective
+- networking (make friends around the world)
+- FUN!
+
 ###Why Singapore
-###NTU/NUS
+- SE asia at your doorstep
+Singapore is a travel hub
+- Best of both the east and west
+
+- Sit down toilets
+- clean water
+- amazing food
+
 
 ## Preparing for Singapore
 ### What to bring 
 - clothing
+
 - electronics
+
 - things to bring
 
 ## Ariving in Singapore
 ### Flights
 - priceline
+
 - layover
 
 ## Basics of Singapore
@@ -49,7 +62,7 @@ travel
 - in singapore
 - around singapore
 
-##NUS / NTU
+##NUS / NTU / SMU
 location
 Orientation and Initial Steps
 Language of Instruction
@@ -60,7 +73,15 @@ Registering for Courses
 Unique Courses
 Examinations
 
+##FAQ's
+Drugs
+Alchol
+
+##Links to resources
+
 
 ##About the authors
+Andrew
+Ali
 
 Alumni association
