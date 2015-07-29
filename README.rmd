@@ -1,11 +1,19 @@
-# Singapore Exchange Student Guide
+---
+title: "Singapore Exchange Student Guide"
+output:
+  html_document:
+    highlight: tango
+    number_sections: yes
+    theme: cosmo
+    toc: yes
+---
 Make the most of your semester abroad!
 
 Note: This document is just a rough outline for the content
 and this repo is a work in progress
 
-## Introduction
-### Why go on exchange?
+# Introduction
+## Why go on exchange?
 - international perspective
 - networking (make friends around the world)
 - FUN!
@@ -19,7 +27,7 @@ Singapore is a travel hub
 - amazing food
 - Match's University schedule
 
-## Preparing for Singapore
+# Preparing for Singapore
 
 ## Passport
 Ensure 6 months after you leave Singapore to ensure no visa problems
@@ -30,7 +38,7 @@ More in the money section
 Bring, CLEAN CRISP US dollars
 
 
-### Purchase Avalibility
+## Purchase Avalibility
 
 Most things are avaliable to purchase but are generally more expensive:
 Pharmaceuticals
@@ -38,14 +46,14 @@ personal electronics
 clothing (large sizes)
 
 
-### What to bring 
+## What to bring 
 - clothing
 - electronics
 - other things to bring
 
 
 
-#### Clothing
+### Clothing
 Singapore is very hot and humid!
 - many shorts, t-shirts
 - sandels and flip flops
@@ -69,19 +77,19 @@ It rains constantly:
 Traveling:
 Northern China & North Vietnam can be cold
 
-#### Medication 
+### Medication 
 Malarone
 Traveler's  Diarerria Medication
 
 
 
-### What not to bring:
+## What not to bring:
 
 - Illegal Drugs ([death penalty](http://www.cnb.gov.sg/default.aspx))
 - "Chewing Gum"
 - [Many more](http://www.customs.gov.sg/leftNav/trav/Controlled+and+Prohibited+Goods.html)
 
-### Duty Free!
+## Duty Free!
 
 - Booze is expensive in Singapore (especially with tax)
 - Pick up things from [Duty Free!](http://www.customs.gov.sg/leftNav/trav/Duty-free+Concession+and+GST+Relief.html)
@@ -97,8 +105,8 @@ Canadian's have a 30 day visa for Singapore.  After attaining the 30 day visa on
 
 Your school/company/institution should provide more information for your specific case
 
-## Ariving in Singapore
-### Flights
+# Ariving in Singapore
+## Flights
 - priceline
 Generally cheapest flights
 
@@ -107,29 +115,29 @@ Generally cheapest flights
 2/ have a 24 hour layover
 3/ fly to destination
 
-## Basics of Singapore
+# Basics of Singapore
 
 - 12-13  hour time difference
 - Metric -> stationary difference
 
-### Electricity
+## Electricity
 
 - British, 240V
 - Bring transformer
 - Bring adapters
 
-### Phone/ Internet
+## Phone/ Internet
 
 - Cheap
 - Bring triband phone
 - Top up cards
 
-### Temperature, climate, weather
+## Temperature, climate, weather
 Two gurantees:
 - Heat
 - Rain
 
-###  Language
+##  Language
 
 Four official languages:
 - English
@@ -150,21 +158,21 @@ Use affilaite: uber.com/invite/kk4sp to get $20
 - taxis <- Good, but expensive at night
 - Pay a $3 booking fee
 
-## Health and safety
+# Health and safety
 
-### Health Care
+## Health Care
 
-#### In Singapore
+### In Singapore
 - World class, best in the world
 - Private and expensive
 - Many hospitals in Singapore
 
-#### Outside
+### Outside
 - Sketchy
 - Terrible
 - Dangerous
 
-### Health Insurance
+## Health Insurance
 MAKE SURE YOU FIGURE IT OUT!
 
 Might be offered by your home school 
@@ -173,21 +181,21 @@ Might be covered by parents
 Might be covered by credit card
 Option to purchase insurance
 
-### Health Risks and Vaccinations
-#### In Singapore
+## Health Risks and Vaccinations
+### In Singapore
 - Very low risk
 - Good health and safety
 - Water and food is very safe
 [Recommended vaccinations](http://www.phac-aspc.gc.ca/tmp-pmv/countries-pays/country-pays-eng.php?id=383)
 
-##### Dengue & Chikyungaya
+#### Dengue & Chikyungaya
 [Avoid getting bitten by mostiqutoes](http://travel.gc.ca/travelling/health-safety/insect-bite)
 
 #### Fungal Infections
 Athlete’s foot, ringworm, white spots and other fungal infections are more common in the
 humidity. Luckily, creams and powders to treat these are readily available at pharmacies.
 
-##### Malaria
+#### Malaria
 Malerone
 
 #### Outside Singapore
@@ -201,36 +209,36 @@ Malerone
 - generally things do not get stolen
 - still take precautions
 
-##### Traffic
+#### Traffic
 - Does not yield on small roads
 - Taxis never yield
 - Dangerous biking
 
-#### Outside Singapore
+### Outside Singapore
 - can be dangerous
 - many tourist traps
 - many, many scams
 
 
-## Money Matters
+# Money Matters
 
 ### General notes
 
 - Handle money with respect
 - Negotiate (not generally), but for electronics, tailoring etc.
 
-### Exchange Rate
-Almost the same as Canadian
+## Exchange Rate
+Almost the same as Canadian (when writing guide)
 1 CAD : 1.05 SGD
 
 Bring over $100-$200 SGD for first couple of days
 Canadian banks offer decent rates
 
-### Exchange Options:
+## Exchange Options:
 - Withdraw via debit and pay exchange rate from bank (+ ATM fees)
 - Bring over Canadian/USD and exchange at Mustafa Center (Little India)
 
-### Banking
+## Banking
 - Once you have your student ID card open free bank account
 - Personally I suggest DBS (most ATM's around)
 
@@ -331,8 +339,10 @@ Hub of SE Asia
 - Laos
 - China
 - Brunei
+- many more!
 
-Visas:
+
+##Visas:
 Note on E-Visas: Most countries offer an electronic visa process. 
 
 Embasys everywhere
@@ -396,7 +406,5 @@ Alchol
 
 
 ##About the authors
-Andrew
-Ali
-
-Alumni association
+Andrew Andrade (andrew@andrewandrade.ca)
+Waterloo Alumni association
