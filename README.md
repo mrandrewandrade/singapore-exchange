@@ -6,8 +6,8 @@ and this repo is a work in progress
 
 Outline:
 
-##Introduction
-###Why go on exchange?
+## Introduction
+### Why go on exchange?
 - international perspective
 - networking (make friends around the world)
 - FUN!
@@ -42,9 +42,7 @@ clothing (large sizes)
 
 ### What to bring 
 - clothing
-
 - electronics
-
 - other things to bring
 
 
@@ -75,15 +73,20 @@ Northern China & North Vietnam can be cold
 
 #### Medication 
 Malarone
-Traveler Diarerria
+Traveler's  Diarerria Medication
+
 
 
 ### What not to bring:
 
-- Illegal Drugs (death penalty)
+- Illegal Drugs ([death penalty](http://www.cnb.gov.sg/default.aspx))
 - "Chewing Gum"
 - [Many more](http://www.customs.gov.sg/leftNav/trav/Controlled+and+Prohibited+Goods.html)
 
+### Duty Free!
+
+- Booze is expensive in Singapore (especially with tax)
+- Pick up things from [Duty Free!](http://www.customs.gov.sg/leftNav/trav/Duty-free+Concession+and+GST+Relief.html)
 
 ## Visa
 
@@ -99,26 +102,57 @@ Your school/company/institution should provide more information for your specifi
 ## Ariving in Singapore
 ### Flights
 - priceline
+Generally cheapest flights
 
-- layover
+- layover trick
+1/ fly to a "flight hub"
+2/ have a 24 hour layover
+3/ fly to destination
 
 ## Basics of Singapore
-Time, units measurements,
-electricity
-Phone/ Internet
-Temperature, climate, weather
-language
 
-#Transportation
+- 12-13  hour time difference
+- Metric -> stationary difference
+
+### Electricity
+
+- British, 240V
+- Bring transformer
+- Bring adapters
+
+### Phone/ Internet
+
+- Cheap
+- Bring triband phone
+- Top up cards
+
+### Temperature, climate, weather
+Two gurantees:
+- Heat
+- Rain
+
+###  Language
+
+Four official languages:
+- English
+- Malay
+- Mandarin
+- Tamil
+
+# Transportation
 Purchase a transit card:
 - MRT <- Very fast subway
 - Bus <- Pretty convenient, goes everywhere
 
-- taxis <- Good, but expensive at night
-- grab taxi
+Mobile Phone App:
+- [Uber](https://www.uber.com/invite/kk4sp), cheap & awesome!
+Link will get you $20
 
-- uber
-##Health and safety
+- [Grab Taxi](http://grabtaxi.com/):
+- taxis <- Good, but expensive at night
+- Pay a $3 booking fee
+
+## Health and safety
 
 ### Health Care
 
@@ -149,7 +183,7 @@ Option to purchase insurance
 [Recommended vaccinations](http://www.phac-aspc.gc.ca/tmp-pmv/countries-pays/country-pays-eng.php?id=383)
 
 ##### Dengue & Chikyungaya
-[Avoid getting bitten by mostiqutoes ](http://travel.gc.ca/travelling/health-safety/insect-bite)
+[Avoid getting bitten by mostiqutoes](http://travel.gc.ca/travelling/health-safety/insect-bite)
 
 #### Fungal Infections
 Athlete’s foot, ringworm, white spots and other fungal infections are more common in the
@@ -164,10 +198,10 @@ Malerone
 
 #### In Singapore
 - very very safe
-- Can walk late at night
+- can walk late at night (even females)
 - very low crime rate
 - generally things do not get stolen
-- Still take precautions
+- still take precautions
 
 ##### Traffic
 - Does not yield on small roads
@@ -177,62 +211,164 @@ Malerone
 #### Outside Singapore
 - can be dangerous
 - many tourist traps
-- many scams
+- many, many scams
 
 
-##money matters
-exchange rate
+## Money Matters
 
-banks
+### General notes
 
-taxes
+- Handle money with respect
+- Negotiate (not generally), but for electronics, tailoring etc.
 
-credit cards
-cost tabulation
-I personally have an international bank card which allows me to do international transactions with
-no exchange free so I went to any ATM and withdraw money when I wanted.
-With the student you have a couple of free banking options. Bring $100-$200 Singaporean dollars
-for the first couple of days. Once you get your student ID card you can open the student account
-    and deposit money into the account. I personally recommend DBS since they offer a large number
-    of ATM's around the country. You can exchange money in little India or other locations which offer
-    the best exchange rate.
+### Exchange Rate
+Almost the same as Canadian
+1 CAD : 1.05 SGD
 
-##Housing
-- Very expensive
-- generally go to residence (very affortable)
+Bring over $100-$200 SGD for first couple of days
+Canadian banks offer decent rates
+
+### Exchange Options:
+- Withdraw via debit and pay exchange rate from bank (+ ATM fees)
+- Bring over Canadian/USD and exchange at Mustafa Center (Little India)
+
+### Banking
+- Once you have your student ID card open free bank account
+- Personally I suggest DBS (most ATM's around)
+
+## Housing
+
+- Housing is EXPENSIVE ($800-$1500/month)
 - craiglist, local sites for cash
+- Residence is pretty inexpensive ($300-$600)
+- Watch out about mould and living things
 
-food and drink
+## Food & Drink
 
-## travel
-- in singapore
+Amazing international cuisine!
+
+Singapore is the [food hub of Asia](http://www.hungrygowhere.com/hawker-food/)
+
+Hawker centre and restaurants
+
+## Hawker centers
+
+- Food courts with tons of cheap options
+- Full meals from $3-$5
+- Drinks come in bags
+
+## Restaurants
+
+- Expensive
+- Hit or miss
+- Do your research
+
+## Bars, Drinking and Partying
+
+- [Clarke Quay](http://www.clarkequay.com.sg/en/), downtown on river with bars, restaurants and popular clubs
+- Drink at the Clarke Quay Bridge
+- Party at [1 Altitude](http://www.1-altitude.com/#!Viewing/About), on top of the Marina Bay Sands
+
+## Culture
+
+- [History](http://www.yoursingapore.com/about-singapore/singapore-history.html)
+- [way of life](http://www.yoursingapore.com/about-singapore/singapore-history.html)
+- [Singlish](http://www.singlishdictionary.com/)
 
 
-- around singapore
+## Counrty of Rules
+
+Fines for:
+- Jaywalking
+- Smoking indoors
+- Littering
+- Not flushing public toilets
+- Chewing gum
+- Eating/Drinking on MRT
+- Drugs
+- Vandilism
+
+Penalties:
+
+- Fines
+- [Canning](https://en.wikipedia.org/wiki/Caning_in_Singapore)
+- Deportation
+- Death 
+
+## Sightseeing in Singapore
+- Marina Bay Sands
+- Garderns by the bay
+- Little India
+- China Town
+- Botanic gardens
+- Singapore Zoo
+- Night Safari
+- Heartlands
+- East Coast Park
+- Sentosa
+- Bukit Timah
+- MacRitchie Reservoir
+- Sungei Buloh
+- Pulao Ubin
+- Arab Street
+- Colonial District
+- Jurong Bird Park
+
+## Holidays
+
+Many! Chinese, Indian, Western, and many more!
 
 
+
+## Travel
+Hub of SE Asia
+
+- Myanmar
+- Vietnam
+- Thailand
+- Indonesia
+- Malaysia
+- Phillipines
+- Cambodia
+- Laos
+- China
+- Brunei
 
 Visas:
-Singapore offers a great number of surrounding countries and opportunities for amazing travel
-experiences. Visas are required for some countries and not required for others. At the time of this
-writing, Canadian citizens do not require visas for Malaysia, Thailand, Indonesia and the
-Philippines. Visa's are required for countries like Myanmar, China, Vietnam and many others. Visa
-applications are different for each country, please consult the websites of the countries for the
-updated information. Lucky for you, Singapore is a central hub of travel and offers many
-embassy's for you to get the required visas.
-Note on E-Visas: Most countries offer an electronic visa process. In Myanmar there is the official
-government website, but for other countries such as Vietnam, there are many non-official sites
-which offer visa applications. The way the process works is you provide your personal information
-and they send you a letter of approval which you show customs, pay a stamping fee and get your
-visa.
-Myanmar: visa on arrival → apply online and pa the fee, wait to be approved. The other cheaper
-option is to visit the embasy which involves half a day
-China: Visit the embassy in Singpaore and how proof of hotels and flights
-Vietnam: Visa arrival (pay is US dollars)
-Important note: The US dollar is the standard for payement. Bring CLEAN, CRISP and NEW bills
-since in certain countries (such as myanmar) they on accept PERFECT bills.
+Note on E-Visas: Most countries offer an electronic visa process. 
+
+Embasys everywhere
+
+Important note: The US dollar is the standard for payement. Bring CLEAN, CRISP and NEW bills since in certain countries (such as myanmar) they on accept PERFECT bills.
+
+### Bus/ Train / Boat
+
+Can bus/train from Singapore so Malaysia
+Great for last minute trips
+
+[Easybook.com](http://www.easybook.com/)
+
+Go by boat to Indonesia
+
+### Flights
+TigerAir
+JetStar
+Air Asia
+Scoot
+
+Sign up for deals
+Book 2.5 weeks early
+Book Tuesday - Thursday
 
 
+### Places to stay
+
+[Airbnb](www.airbnb.ca/c/aandrade183?s=8)
+Use affilaite: aandrade183 for $34 SGD
+
+[Hostelworld](http://www.hostelworld.com/)
+
+Just hop on a motor bike
 
 ##NUS / NTU / SMU
 location
@@ -244,6 +380,8 @@ Courses Taken
 Registering for Courses
 Unique Courses
 Examinations
+
+
 
 ##FAQ's
 Drugs
